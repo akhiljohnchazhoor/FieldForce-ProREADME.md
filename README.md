@@ -1,7 +1,10 @@
 Engineering Case Study: FieldForce-Pro Core Modules
+
 Company: Bairuha Tech  
+
 Role: Software Engineering Intern  
-Project: FieldForce-Pro 
+
+Project: Develop a Comprehensive Field Service Management Application 
 
 *Note: This repository serves as an architectural overview and technical case study. The original source code is proprietary to Bairuha Tech and remains in a private repository. The algorithms, system designs, and data structures discussed here represent my personal contributions and problem-solving approaches.*
 
